@@ -1250,10 +1250,12 @@
         "configName": "ChatFeelings",
         "freePlugin": true
     },
-	{
+    {
 		  "name": "DeathSwap",
         "desc": "Swap for ever",
         "jarName": "DeathSwap.jar",
         "configName": "DeathSwap",
         "freePlugin": true
-]
+       )	
+   ]
+}		
