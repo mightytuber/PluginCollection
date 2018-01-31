@@ -135,6 +135,7 @@
 		"desc": "Let your players earn money by doing various jobs!",
 		"jarName": "Jobs.jar",
 		"configName": "Jobs"
+		"freePlugin": true
 	},
 	{
 		"name": "Banner Maker",
@@ -302,6 +303,7 @@
 		"desc": "Extremely versatile and well-made car plugin.\n&cRequires &nProtocolLib&c.",
 		"jarName": "uCars.jar",
 		"configName": "uCars"
+		"freePlugin": true
 	},
   {
 		"name": "RandomTP",
@@ -341,6 +343,7 @@
 		"desc": "Allow players to buy, sell, and rent houses",
 		"jarName": "Houses.jar",
 		"configName": "Houses"
+		"freePlugin": true
 	},
 	{
 		"name": "World Guard",
@@ -432,7 +435,7 @@
 		"desc": "Allows you to create custom minigames of all different types!\n&cRequires &nMinigames Regions&c.",
 		"jarName": "Minigames.jar",
 		"configName": "Minigames",
-		"requiredRank": "diamond"
+		"freePlugin": true
 	},
 	{
 		"name": "Minigames Regions",
@@ -446,63 +449,63 @@
 		"desc": "A full duel system for players to\nfight in 1v1s which is very customizable\nfrom in-game!",
 		"jarName": "Duels.jar",
 		"configName": "Duels",
-		"requiredRank": "diamond"
+		"freePlugin": true
 	},
 	{
 		"name": "GunGame",
 		"desc": "A gamemode where you earn upgrades to gear\nby getting kills!",
 		"jarName": "GunGame.jar",
 		"configName": "GunGame",
-		"requiredRank": "diamond"
+		"freePlugin": true
 	},
 	{
 		"name": "Bed Wars",
 		"desc": "The complete Bed Wars experience in one plugin",
 		"jarName": "BedWars.jar",
 		"configName": "BedWars",
-		"requiredRank": "diamond"
+		"freePlugin": true
 	},
 	{
 		"name": "Sky Wars",
 		"desc": "An automated, fully-featured Sky Wars plugin",
 		"jarName": "SkyWars.jar",
 		"configName": "SkyWars",
-		"requiredRank": "diamond"
+		"freePlugin": true
 	},
 	{
 		"name": "Murder",
 		"desc": "Garry's Mod gamemode, Murder, put into Minecraft!",
 		"jarName": "MCMurder.jar",
 		"configName": "MCMurder",
-		"requiredRank": "diamond"
+		"freePlugin": true
 	},
 	{
 		"name": "Trouble in Terrorist Town (TTT)",
 		"desc": "Garry's Mod gamemode, TTT, put into Minecraft!",
 		"jarName": "TTT.jar",
 		"configName": "MTTT",
-		"requiredRank": "diamond"
+		"freePlugin": true
 	},
 	{
 		"name": "Friday the 13th",
 		"desc": "A fun minigame where one player plays as Jason\nand the rest have to run and hide!",
 		"jarName": "FridayThe13th.jar",
 		"configName": "FridayThe13th",
-		"requiredRank": "diamond"
+		"freePlugin": true
 	},
 	{
 		"name": "Color Cube",
 		"desc": "A territorial-based minigame.",
 		"jarName": "ColorCube.jar",
 		"configName": "ColorCube",
-		"requiredRank": "diamond"
+		"freePlugin": true
 	},
 	{
 		"name": "Replica",
 		"desc": "A minigame where players compete to replicate a picture.",
 		"jarName": "Replica.jar",
 		"configName": "Replica",
-		"requiredRank": "diamond"
+		"freePlugin": true
 	},
 	{
 		"name": "MinigamesLib",
@@ -517,49 +520,49 @@
 		"desc": "Garry's mod gamemode, DeathRun, ported to Minecraft!\n&cRequires &nMinigamesLib&c.",
 		"jarName": "MGDeathRun.jar",
 		"configName": "MGDeathRun",
-		"requiredRank": "diamond"
+		"freePlugin": true
 	},
 	{
 		"name": "One in the Chamber",
 		"desc": "A fast-paced minigame where bows are one-hit kill.\n&cRequires &nMinigamesLib&c.",
 		"jarName": "MGOITC.jar",
 		"configName": "MGOITC",
-		"requiredRank": "diamond"
+		"freePlugin": true
 	},
 	{
 		"name": "Bow Bash",
 		"desc": "This is a TDM gamemode where you must avoid\nthe enemy's arrows and explosives and try to kill them all.\n&cRequires &nMinigamesLib&c.",
 		"jarName": "MGBowBash.jar",
 		"configName": "MGBowBash",
-		"requiredRank": "diamond"
+		"freePlugin": true
 	},
 	{
 		"name": "Conquer",
 		"desc": "A team gamemode where the teams compete to\ncapture checkpoints in the map.\n&cRequires &nMinigamesLib&c.",
 		"jarName": "MGConquer.jar",
 		"configName": "MGConquer",
-		"requiredRank": "diamond"
+		"freePlugin": true
 	},
 	{
 		"name": "Sea Battle",
 		"desc": "Try to hit your enemies with snowballs in boats!\n&cRequires &nMinigamesLib&c.",
 		"jarName": "MGSeaBattle.jar",
 		"configName": "MGSeaBattle",
-		"requiredRank": "diamond"
+		"freePlugin": true
 	},
 	{
 		"name": "Flying Cars",
 		"desc": "Fly in planes and try to shoot your enemies down!\n&cRequires &nMinigamesLib&c.",
 		"jarName": "MGFlyingCars.jar",
 		"configName": "MGFlyingCars",
-		"requiredRank": "diamond"
+		"freePlugin": true
 	},
 	{
 		"name": "Snake",
 		"desc": "The classic game of Snake in Minecraft!\nEat food to grow, but don't run into someone's snake!\n&cRequires &nMinigamesLib&c.",
 		"jarName": "MGSnake.jar",
 		"configName": "MGSnake",
-		"requiredRank": "diamond"
+		"freePlugin": true
 	},
     {
         "name": "MG Bed Wars",
@@ -579,18 +582,21 @@
 		"desc": "A new plugin for players to sell items from chests",
 		"jarName": "ShopChest.jar",
 		"configName": "ShopChest"
+		"freePlugin": true
 	},
 	{
 		"name": "ChestShop",
 		"desc": "Chestshops that allow players to sell/buy items.",
 		"jarName": "ChestShop.jar",
 		"configName": "ChestShop"
+		"freePlugin": true
 	},
     {
         "name": "Spawner Shop",
         "desc": "Sign and GUI shops for mob spawners.",
         "jarName": "SpawnerShop.jar",
         "configName": "SpawnerShop"
+	    "freePlugin": true
     },
 	{
 		"name": "Crack Shot",
@@ -622,6 +628,7 @@
         "desc": "A simple elevator plugin",
         "jarName": "Lift.jar",
         "configName": "Lift"
+	    "freePlugin": true
     },
 	{
 		"name": "Silk Spawners",
@@ -671,18 +678,21 @@
         "desc": "An all-in-one prison plugin.",
         "jarName": "Prison.jar",
         "configName": "Prison"
+	    "freePlugin": true
     },
     {
         "name": "Prison Mines",
         "desc": "A mines module for the 'Prison' plugin.\n&cRequires &nPrison&c.",
         "jarName": "PrisonMines.jar",
         "configName": "PrisonMines"
+	    "freePlugin": true
     },
     {
         "name": "Prison Ranks",
         "desc": "A ranks module for the 'Prison' plugin.\n&cRequires &nPrison&c.",
         "jarName": "PrisonRanks.jar",
         "configName": "PrisonRanks"
+	    "freePlugin": true
     },
 	{
 		"name": "Libs Disguises",
@@ -701,6 +711,7 @@
         "desc": "Make your own custom commands",
         "jarName": "MyCommand.jar",
         "configName": "MyCommand"
+	    "freePlugin": true
     },
 	{
 		"name": "Item Fixer",
@@ -721,6 +732,7 @@
 		"desc": "A simple pets plugin (EchoPets replacement)\n&cRequires &nSimpleAPI&c.\n&c&nThis may conflict with Citizens!",
 		"jarName": "SimplePets.jar",
 		"configName": "SimplePets"
+		"freePlugin": true
 	},
 	{
 		"name": "SimpleAPI",
@@ -752,6 +764,7 @@
 		"desc": "Lets players easily and safely trade items via a GUI.\nMade by Minehut user &nLucas&r.",
 		"jarName": "TradePlus.jar",
 		"configName": "TradePlus"
+		"freePlugin": true
 	},
 	{
 		"name": "Action Announcer",
@@ -801,7 +814,7 @@
 		"desc": "Add right-clickable commands to your NPCs.\n&cRequires &nCitizens&c.",
 		"jarName": "CommandNPC.jar",
 		"configName": "CommandNPC",
-		"requiredRank": "bronze"
+		"freePlugin": true
 	},
     {
         "name": "Citizens CMD",
@@ -839,7 +852,7 @@
 		"desc": "Claim land, build a base and wage war!",
 		"jarName": "Factions.jar",
 		"configName": "Factions",
-		"requiredRank": "silver"
+		"freePlugin": true
 	},
 	{
 		"name": "Obsidian Breaker",
@@ -921,6 +934,7 @@
 		"desc": "Added marriages and divorces to your server.",
 		"jarName": "JoeMarriage.jar",
 		"configName": "JoeMarriage"
+		"freePlugin": true
 	},
 	{
 		"name": "Marriage Master",
@@ -939,7 +953,8 @@
 		"desc": "Helps clear the lag on your server.",
 		"jarName": "Clearlag.jar",
 		"configName": "ClearLag",
-		"requiredRank": 1
+		"freePlugin": true
+		
 	},
 	{
 		"name": "Scaffold",
@@ -993,7 +1008,7 @@
 		"desc": "Punish your players more effectively! \n&cNote: May prevent scoreboards from properly displaying.",
 		"jarName": "Punishment.jar",
 		"configName": "Punishment",
-		"requiredRank": "silver"
+		"freePlugin": true
 	},
 	{
 		"name": "Chest Cleaner",
@@ -1056,6 +1071,7 @@
 		"desc": "Allows your users with permissions\nto change their name/chat color!",
 		"jarName": "ChatColor.jar",
 		"configName": "ChatColor+"
+		"freePlugin": true
 	},
 	{
 		"name": "TrainCarts",
@@ -1138,6 +1154,7 @@
 		"desc": "Adds backpacks for your \nplayers to store items in",
 		"jarName": "MinePacks.jar",
 		"configName": "MinePacks"
+		"freePlugin": true
 	},
 	{
 		"name": "Vein Miner",
@@ -1232,5 +1249,10 @@
         "jarName": "ChatFeelings.jar",
         "configName": "ChatFeelings",
         "freePlugin": true
-    }
+    },
+	{
+		"name": "DeathSwap"
+		"Desc": "Swaps you randomly"
+		"JarName": "DeathSwap.jar"
+		"configName": "DeathSwap"
 ]
