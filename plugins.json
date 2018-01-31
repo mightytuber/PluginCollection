@@ -1251,8 +1251,9 @@
         "freePlugin": true
     },
 	{
-		"name": "DeathSwap"
-		"Desc": "Swaps you randomly"
-		"JarName": "DeathSwap.jar"
-		"configName": "DeathSwap"
+		  "name": "DeathSwap",
+        "desc": "Swap for ever",
+        "jarName": "DeathSwap.jar",
+        "configName": "DeathSwap",
+        "freePlugin": true
 ]
